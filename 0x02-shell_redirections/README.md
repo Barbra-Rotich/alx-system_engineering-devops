@@ -1,1 +1,1 @@
-Display contents of two files
+Write a script that displays a confused smiley "(Ôo)
