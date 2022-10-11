@@ -1,1 +1,1 @@
-0-hello_world
+Display the content of the /etc/passwd file.
